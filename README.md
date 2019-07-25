@@ -1,0 +1,2 @@
+# SpringBoot-Redis-Rabbitmq
+SpringBoot环境下搭建的 利用Redis和Rabbitmq的商城活动开发
